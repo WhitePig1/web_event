@@ -1,0 +1,65 @@
+{
+  "id": "3284423",
+  "name": "icon01",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "28415510",
+      "name": "首页-2",
+      "font_class": "shouye-2",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "28480132",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "28480139",
+      "name": "管理",
+      "font_class": "guanli",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "28480168",
+      "name": "礼物",
+      "font_class": "liwu",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "28480169",
+      "name": "积分",
+      "font_class": "jifen",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "28480119",
+      "name": "分享-1",
+      "font_class": "fenxiang-1",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "28480125",
+      "name": "更多-1",
+      "font_class": "gengduo-1",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "28480489",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    }
+  ]
+}
