@@ -63,7 +63,7 @@ function getUserInfo() {
 
 // 渲染用户头像信息
 function renderAvatar(user) {
-  // 获取用户名称
+  // 获取用户名称,优先显示昵称
   var name = user.nickname || user.username;
   // 设置欢迎文本
   $('#welcome').html('欢迎&nbsp;' + name);
