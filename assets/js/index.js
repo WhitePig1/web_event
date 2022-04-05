@@ -15,7 +15,7 @@ $(function () {
       // 1.清空本地存储token
       localStorage.removeItem('token');
       // 重新跳转到登录页面
-      location.href = '/code/login.html';
+      location.href = './login.html';
 
       // 关闭提示框
       layer.close(index);
@@ -40,6 +40,7 @@ function getUserInfo() {
         return layui.layer.msg('获取用户信息失败')
       }
 
+
       // 调用renderAvatar渲染用户头像
       renderAvatar(res.data)
 
@@ -53,7 +54,7 @@ function getUserInfo() {
     //     // 1. 清空token
     //     localStorage.removeItem('token');
     //     // 2. 跳转登录页
-    //     location.href = '/code/login.html'
+    //     location.href = '../login.html'
     //   }
     // }
   })

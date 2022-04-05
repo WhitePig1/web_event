@@ -113,7 +113,7 @@ $(function () {
         localStorage.setItem('token', res.token)
 
         //跳转到后台首页,从根路径写起
-        location.href = '/code/index.html'
+        location.href = './index.html'
       }
     })
   })
